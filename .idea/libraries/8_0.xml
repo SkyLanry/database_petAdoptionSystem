@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="8.0">
+    <CLASSES>
+      <root url="file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/MySQL ConnectorJ/8.0.25" />
+      <root url="jar://E:/WeChat Files/wxid_q2pcnqbcwm4411/FileStorage/File/2023-11/mysql-connector-java-8.0.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/MySQL ConnectorJ/8.0.25" recursive="false" />
+  </library>
+</component>
